@@ -12,9 +12,9 @@ Task is taken from FreeCodeCamp Responsive Web Design Project - [_"Build A Perso
 
 ### Requirements for this project:
 
-1.Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
+1. Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
 
-2.Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style.
+2. Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style.
 
 > - User Story #1: My portfolio should have a welcome section with an id of welcome-section.
 > - User Story #2: The welcome section should have an h1 element that contains text.
@@ -28,7 +28,7 @@ Task is taken from FreeCodeCamp Responsive Web Design Project - [_"Build A Perso
 > - User Story #10: The height of the welcome section should be equal to the height of the viewport.
 > - User Story #11: The navbar should always be at the top of the viewport.
 
-3.Remember to use Read-Search-Ask if you get stuck.
+3. Remember to use Read-Search-Ask if you get stuck.
 
 ### Live view
 
