@@ -30,6 +30,6 @@ Task is taken from FreeCodeCamp Responsive Web Design Project - [_"Build A Perso
 
 3.Remember to use Read-Search-Ask if you get stuck.
 
-#### Live view
+### Live view
 
 Click [_here_](https://3trzw.csb.app/) for live view
